@@ -13,6 +13,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/alextruonglt/threat_hunting_lab)**
 
+## 💻 Vulnerability Management Projects
+- **[AI Job Interview App](https://github.com/alextruonglt/interviewpro)**
+- **[Ai Aritcle Summarizer App](https://github.com/alextruonglt/summarizer)**
 
 
 
