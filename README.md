@@ -4,6 +4,16 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects have allowed me to dive deep into the ever-evolving landscape of cybersecurity. Feel free to explore my work to see how I've enhanced security operations and processes.
 
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/alextruonglt/Vulnerability_Policy_Implementation)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/alextruonglt/Vulnerability_Management/tree/main/STIGS)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/alextruonglt/threat_hunting_lab)**
+
+
 
 
 <hr/>
