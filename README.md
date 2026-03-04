@@ -6,6 +6,9 @@ I'm an Identity & Access Governance Analyst with hands-on experience securing en
 
 ## 🪪 Identity & Access Management (IAM / PAM)
 
+- **[Zero Trust Conditional Access Framework — Microsoft Entra ID](https://github.com/alextruonglt/zero-trust)**
+  Designed and implemented a 14-policy Zero Trust Conditional Access framework in a live Entra ID tenant. Improved Identity Secure Score from 22% to 55%. Covers legacy auth blocking, risk-based MFA, device compliance via Intune, identity risk response, session controls, and geo-blocking.
+
 - **[Identity Access Review — Microsoft Entra ID](https://github.com/alextruonglt/iam-access-review)**
   Conducted a full identity entitlement review across 2,225 live Entra ID accounts. Identified 13 findings including a Critical-severity external Global Administrator, zero PIM adoption across all 10 privileged role holders, and 1,159+ stale enabled accounts. Mapped findings to NIST SP 800-53 and CIS Controls v8.
 
@@ -30,6 +33,7 @@ I'm an Identity & Access Governance Analyst with hands-on experience securing en
   Conducted a threat hunting investigation using Microsoft Defender for Endpoint and KQL to detect TOR usage across endpoints. Built KQL detection rules and Microsoft Sentinel dashboards for ongoing monitoring.
 
 ---
+
 
 ## 🎓 Certifications
 
