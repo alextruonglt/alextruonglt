@@ -1,6 +1,13 @@
 # <a href="https://www.linkedin.com/in/alex-truong-8a1a8b120/">Alex Truong</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm an Identity & Access Governance Analyst with hands-on experience securing enterprise Microsoft Entra ID environments, building privileged access governance programs, and mapping organizational risk to NIST 800-53 and CIS Controls frameworks. My work spans IAM, PAM, GRC, vulnerability management, and threat detection — all performed in live production environments.
+I'm an Identity & Access Governance Analyst with hands-on experience securing enterprise Microsoft Entra ID environments, building privileged access governance programs, and mapping organizational risk to NIST 800-53, NIST CSF 2.0, ISO 27001, and SOC 2 frameworks. My work spans IAM, PAM, GRC, vulnerability management, and threat detection — all performed in live production environments.
+
+---
+
+## 📋 Governance, Risk, and Compliance (GRC)
+
+- **[GRC Program Portfolio — Live Azure Cloud Environment](https://github.com/alextruonglt/grc-program-portfolio)**
+  Built a complete GRC program from scratch on a live Azure shared tenant (~1,000+ users) following a multi-framework gap assessment conducted in March 2026. The assessment confirmed zero active Sentinel analytics rules, 83,600 of 203,906 sign-ins on single-factor authentication, 185 critical vulnerabilities with zero remediated, and an empty ProtectionStatus table for all 126 assets. The program produced 21 documents across 9 folders covering four framework assessments (NIST 800-53, NIST CSF 2.0, ISO 27001:2022, SOC 2 TSC), a GRC Program Charter and System Security Plan, identity governance policies and procedures, vulnerability management program, 29 KQL detection rules with 18 SIEM use cases, configuration baseline standard, TPRM template with completed vendor assessment, POA&M, risk register, information security policy, and incident response plan.
 
 ---
 
@@ -33,7 +40,6 @@ I'm an Identity & Access Governance Analyst with hands-on experience securing en
   Conducted a threat hunting investigation using Microsoft Defender for Endpoint and KQL to detect TOR usage across endpoints. Built KQL detection rules and Microsoft Sentinel dashboards for ongoing monitoring.
 
 ---
-
 
 ## 🎓 Certifications
 
