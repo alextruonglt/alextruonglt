@@ -10,7 +10,12 @@ I'm an Identity & Access Governance Analyst with hands-on experience securing en
   Built a complete GRC program from scratch on a live Azure shared tenant (~1,000+ users) following a multi-framework gap assessment conducted in March 2026. The assessment confirmed zero active Sentinel analytics rules, 83,600 of 203,906 sign-ins on single-factor authentication, 185 critical vulnerabilities with zero remediated, and an empty ProtectionStatus table for all 126 assets. The program produced 21 documents across 9 folders covering four framework assessments (NIST 800-53, NIST CSF 2.0, ISO 27001:2022, SOC 2 TSC), a GRC Program Charter and System Security Plan, identity governance policies and procedures, vulnerability management program, 29 KQL detection rules with 18 SIEM use cases, configuration baseline standard, TPRM template with completed vendor assessment, POA&M, risk register, information security policy, and incident response plan.
 
 ---
+## 📺 Cybersecurity Education Content
 
+- **[Cybersecurity Framework Series — YouTube](https://www.youtube.com/@AlexTruongTech)**
+  Produces public cybersecurity education content covering GRC frameworks, identity security, and risk management topics including SOC 2, PCI DSS, ISO 27001, NIST CSF, NIST RMF, NIST 800-53, FedRAMP, GDPR, CMMC 2.0, HIPAA/HITRUST, and more.
+
+---
 ## 🪪 Identity & Access Management (IAM / PAM)
 
 - **[Zero Trust Conditional Access Framework — Microsoft Entra ID](https://github.com/alextruonglt/zero-trust)**
