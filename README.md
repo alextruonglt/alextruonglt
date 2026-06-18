@@ -9,6 +9,8 @@ I'm an Identity & Access Governance Analyst with hands-on experience securing en
 - **[GRC Program Portfolio — Live Azure Cloud Environment](https://github.com/alextruonglt/grc-program-portfolio)**
   Built a complete GRC program from scratch on a live Azure shared tenant (~1,000+ users) following a multi-framework gap assessment conducted in March 2026. The assessment confirmed zero active Sentinel analytics rules, 83,600 of 203,906 sign-ins on single-factor authentication, 185 critical vulnerabilities with zero remediated, and an empty ProtectionStatus table for all 126 assets. The program produced 21 documents across 9 folders covering four framework assessments (NIST 800-53, NIST CSF 2.0, ISO 27001:2022, SOC 2 TSC), a GRC Program Charter and System Security Plan, identity governance policies and procedures, vulnerability management program, 29 KQL detection rules with 18 SIEM use cases, configuration baseline standard, TPRM template with completed vendor assessment, POA&M, risk register, information security policy, and incident response plan.
 
+- **[Risk Assessment — CloudSprout Inc. (Mock SaaS Engagement)](https://github.com/alextruonglt/CloudSproutRA)**
+  Conducted an end-to-end information security risk assessment on a fictional 50-person B2B SaaS company using NIST SP 800-30 Rev. 1. Delivered a 17-asset inventory, 15-risk register scored across a 5x5 likelihood-impact matrix, NIST CSF 2.0 gap analysis across all six functions, and a board-level executive summary as formatted portfolio artifacts.
 ---
 ## 📺 Cybersecurity Education Content
 
