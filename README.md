@@ -1,6 +1,6 @@
-# <a href="https://www.linkedin.com/in/alex-truong-8a1a8b120/">Alex Truong</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/alex-truong-8a1a8b120/">Alex Truong, CISSP</a>
 
-I'm an Identity & Access Governance Analyst with hands-on experience securing enterprise Microsoft Entra ID environments, building privileged access governance programs, and mapping organizational risk to NIST 800-53, NIST CSF 2.0, ISO 27001, and SOC 2 frameworks. My work spans IAM, PAM, GRC, vulnerability management, and threat detection — all performed in live production environments.
+I'm a CISSP with hands-on experience securing enterprise Microsoft Entra ID environments, building privileged access governance programs, and mapping organizational risk to NIST 800-53, NIST CSF 2.0, ISO 27001, and SOC 2 frameworks. My work spans IAM, PAM, GRC, vulnerability management, and threat detection — all performed in live production environments.
 
 ---
 
@@ -50,7 +50,7 @@ I'm an Identity & Access Governance Analyst with hands-on experience securing en
 
 ## 🎓 Certifications
 
-`AZ-500` · `SC-300` · `SailPoint Identity Security Leader` · `CompTIA Security+` · `CompTIA Network+` · `AWS Cloud Practitioner` · `Azure Fundamentals` · `ITIL`
+`CISSP` · `AZ-500` · `SC-300` · `SailPoint Identity Security Leader` · `CompTIA Security+` · `CompTIA Network+` · `AWS Cloud Practitioner` · `Azure Fundamentals` · `ITIL`
 
 ---
 
