@@ -6,11 +6,13 @@ I'm a CISSP with hands-on experience securing enterprise Microsoft Entra ID envi
 
 ## 📋 Governance, Risk, and Compliance (GRC)
 
-- **[GRC Program Portfolio — Live Azure Cloud Environment](https://github.com/alextruonglt/grc-program-portfolio)**
+- **[GRC Program Portfolio: Live Azure Cloud Environment](https://github.com/alextruonglt/grc-program-portfolio)**
   Built a complete GRC program from scratch on a live Azure shared tenant (~1,000+ users) following a multi-framework gap assessment conducted in March 2026. The assessment confirmed zero active Sentinel analytics rules, 83,600 of 203,906 sign-ins on single-factor authentication, 185 critical vulnerabilities with zero remediated, and an empty ProtectionStatus table for all 126 assets. The program produced 21 documents across 9 folders covering four framework assessments (NIST 800-53, NIST CSF 2.0, ISO 27001:2022, SOC 2 TSC), a GRC Program Charter and System Security Plan, identity governance policies and procedures, vulnerability management program, 29 KQL detection rules with 18 SIEM use cases, configuration baseline standard, TPRM template with completed vendor assessment, POA&M, risk register, information security policy, and incident response plan.
 
-- **[Risk Assessment — CloudSprout Inc. (Mock SaaS Engagement)](https://github.com/alextruonglt/CloudSproutRA)**
+- **[Risk Assessment: CloudSprout Inc. (Mock SaaS Engagement)](https://github.com/alextruonglt/CloudSproutRA)**
   Conducted an end-to-end information security risk assessment on a fictional 50-person B2B SaaS company using NIST SP 800-30 Rev. 1. Delivered a 17-asset inventory, 15-risk register scored across a 5x5 likelihood-impact matrix, NIST CSF 2.0 gap analysis across all six functions, and a board-level executive summary as formatted portfolio artifacts.
+
+-  **[Vendor Risk Management Framework: Gravity Payments](https://github.com/alextruonglt/gravity-vrm)** Built a production-grade Third-Party Risk Management (TPRM) framework for a payment processor operating under PCI DSS v4.0, GLBA, SOC 2, and CCPA/CPRA. Assessed 15 vendors across 8 service categories using a five-factor composite scoring model that separates inherent risk from control effectiveness. Delivered a six-tab Excel workbook covering a scored vendor risk register, risk heat map, 35-question due diligence questionnaire, and remediation tracker with 8 open findings across 4 priority levels. Framework artifacts are structured to serve as direct audit evidence for PCI DSS Requirements 12.8, 12.8.2, 12.8.4, and 11.4. 
 ---
 ## 📺 Cybersecurity Education Content
 
@@ -20,13 +22,13 @@ I'm a CISSP with hands-on experience securing enterprise Microsoft Entra ID envi
 ---
 ## 🪪 Identity & Access Management (IAM / PAM)
 
-- **[Zero Trust Conditional Access Framework — Microsoft Entra ID](https://github.com/alextruonglt/zero-trust)**
+- **[Zero Trust Conditional Access Framework: Microsoft Entra ID](https://github.com/alextruonglt/zero-trust)**
   Designed and implemented a 14-policy Zero Trust Conditional Access framework in a live Entra ID tenant. Improved Identity Secure Score from 22% to 55%. Covers legacy auth blocking, risk-based MFA, device compliance via Intune, identity risk response, session controls, and geo-blocking.
 
-- **[Identity Access Review — Microsoft Entra ID](https://github.com/alextruonglt/iam-access-review)**
+- **[Identity Access Review: Microsoft Entra ID](https://github.com/alextruonglt/iam-access-review)**
   Conducted a full identity entitlement review across 2,225 live Entra ID accounts. Identified 13 findings including a Critical-severity external Global Administrator, zero PIM adoption across all 10 privileged role holders, and 1,159+ stale enabled accounts. Mapped findings to NIST SP 800-53 and CIS Controls v8.
 
-- **[Privileged Access Audit — Zero Trust Benchmarks](https://github.com/alextruonglt/privileged-access-audit)**
+- **[Privileged Access Audit: Zero Trust Benchmarks](https://github.com/alextruonglt/privileged-access-audit)**
   Audited 8 privileged identities across 3 tiers against 10 Zero Trust benchmarks. Found 100% of accounts at Critical Risk — including a service principal and an 11-year-old external guest identity holding permanent Global Administrator with no PIM, no MFA evidence, and no CA policy coverage.
 
 ---
